@@ -1,0 +1,21 @@
+# Model weights and large artefacts (documented in each project README)
+*.pt
+*.pth
+*.h5
+*.keras
+*.joblib
+*.ckpt
+*.tfrec
+*.npy
+
+# Build / cache
+build/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv*/
+.DS_Store
+
+# Data
+data/
+datasets/

@@ -1,0 +1,16 @@
+streamlit>=1.28
+torch
+torchvision
+scikit-learn==1.6.1
+numpy<2
+pandas
+pillow
+opencv-python<4.12
+matplotlib
+joblib
+plotly
+pydicom
+grad-cam
+
+# Optional only if a future TensorFlow/Keras .h5/.keras RSNA or PCam model is added.
+# tensorflow>=2.12
